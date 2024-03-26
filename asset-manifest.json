@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KARTHI/static/css/main.24ee81df.css",
+    "main.js": "/KARTHI/static/js/main.4ead2f89.js",
+    "static/js/453.1b6cbde4.chunk.js": "/KARTHI/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/KARTHI/index.html",
+    "main.24ee81df.css.map": "/KARTHI/static/css/main.24ee81df.css.map",
+    "main.4ead2f89.js.map": "/KARTHI/static/js/main.4ead2f89.js.map",
+    "453.1b6cbde4.chunk.js.map": "/KARTHI/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ee81df.css",
+    "static/js/main.4ead2f89.js"
+  ]
+}
